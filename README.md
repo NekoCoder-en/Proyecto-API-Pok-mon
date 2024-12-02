@@ -1,15 +1,15 @@
 # Pokédex - Pokémon TCG
 
 ### **Integrantes del Proyecto:**
-- **Nombre:** (Tu nombre)
-- **Nombre:** (Nombre del compañero, si aplica)
+- **Nombre:** Irving Giovanny Amador Hernandez
+- **Nombre:** Efrén Yañez Moreno
 
 ### **Universidad:**
 - Universidad Tecnológica de la Sierra Hidalguense (UTSH)
 
 ### **Datos de la Materia:**
-- **Materia:** Diseño de Aplicaciones
-- **Profesor:** Alberto Corona Alejandro
+- **Materia:** Aplicaciones Web Orientada a Servicios
+- **Profesor:** Senen Aldahir Mayorga Garcia
 - **Grupo:** 4TIDSM-G1
 
 ### **Cuatrimestre:**
